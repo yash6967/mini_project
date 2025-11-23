@@ -16,13 +16,13 @@ export const productVideoData = {
     {
       id: 'cc1',
       title: "Earn ₹50,000/Month Selling Credit Cards",
-      description: "Online | GroMo App #shorts",
+      description: "Online |  App #shorts",
       url: "https://www.youtube.com/shorts/rXywVTcNrvo",
       thumbnail: `https://i.ytimg.com/vi/${getYouTubeVideoId('https://www.youtube.com/shorts/rXywVTcNrvo')}/mqdefault.jpg`
     },
     {
       id: 'cc2',
-      title: "Earn by Selling Credit Cards Through GroMo",
+      title: "Earn by Selling Credit Cards",
       description: "",
       url: "https://www.youtube.com/shorts/3cRS0XbLSHM",
       thumbnail: `https://i.ytimg.com/vi/${getYouTubeVideoId('https://www.youtube.com/shorts/3cRS0XbLSHM')}/mqdefault.jpg`
@@ -37,14 +37,14 @@ export const productVideoData = {
     {
       id: 'cc4',
       title: "Earn up to ₹3000 in 3 Easy Steps",
-      description: "GroMo",
+      description: "Invest",
       url: "https://www.youtube.com/shorts/ql-5QK6FJuk",
       thumbnail: `https://i.ytimg.com/vi/${getYouTubeVideoId('https://www.youtube.com/shorts/ql-5QK6FJuk')}/mqdefault.jpg`
     },
     {
       id: 'cc5',
       title: "Har ek payment credit card se - why?",
-      description: "#gromo #creditcard",
+      description: " #creditcard",
       url: "https://www.youtube.com/watch?v=ejn2Z5P4GnU",
       thumbnail: `https://i.ytimg.com/vi/${getYouTubeVideoId('https://www.youtube.com/watch?v=ejn2Z5P4GnU')}/mqdefault.jpg`
     },
@@ -65,14 +65,14 @@ export const productVideoData = {
     {
       id: 'cc8',
       title: "Credit Card Hacks",
-      description: "GroMo #shorts #creditcard",
+      description: "Invest #shorts #creditcard",
       url: "https://www.youtube.com/shorts/24TqpSz-Tmc",
       thumbnail: `https://i.ytimg.com/vi/${getYouTubeVideoId('https://www.youtube.com/shorts/24TqpSz-Tmc')}/mqdefault.jpg`
     },
     {
       id: 'cc9',
       title: "Can a credit card help you with your new year resolutions?",
-      description: "#gromo",
+      description: "#Invest",
       url: "https://www.youtube.com/shorts/F5EQuX2Zh-w",
       thumbnail: `https://i.ytimg.com/vi/${getYouTubeVideoId('https://www.youtube.com/shorts/F5EQuX2Zh-w')}/mqdefault.jpg`
     },
@@ -146,7 +146,7 @@ export const productVideoData = {
     {
       id: 'sa2',
       title: "Best Banks For Savings Accounts in India",
-      description: "GroMo",
+      description: "Invest",
       url: "https://www.youtube.com/shorts/OtMP62FE_lU",
       thumbnail: `https://i.ytimg.com/vi/${getYouTubeVideoId('https://www.youtube.com/shorts/OtMP62FE_lU')}/mqdefault.jpg`
     }

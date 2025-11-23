@@ -230,10 +230,10 @@ const IntermediatePage = (props) => {
         </div>
         {/* End of New Training Section Layout */}
 
-        <div className="page-section learning-section">
+        {/* <div className="page-section learning-section">
           <h2>LEARNING SECTION</h2>
           <VideoGallery videos={videosForProduct} />
-        </div>
+        </div> */}
     </div>
   );
 };

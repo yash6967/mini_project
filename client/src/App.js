@@ -117,7 +117,7 @@ function App() {
           <footer className="bg-light py-4 mt-5">
             <Container>
               <div className="text-center text-muted">
-                <p className="mb-0">© {new Date().getFullYear()} Loan Agent Trainer. All rights reserved.</p>
+                <p className="mb-0"></p>
               </div>
             </Container>
           </footer>

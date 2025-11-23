@@ -73,7 +73,7 @@ const GromoGuru = ({ showSuggestion, forceShow }) => {
       </AnimatePresence>
       <BotImage
         src="https://img.freepik.com/free-vector/graident-ai-robot-vectorart_78370-4114.jpg?semt=ais_hybrid&w=740"
-        alt="GromoGuru"
+        alt="image"
         onClick={toggleMessage}
       />
     </BotContainer>

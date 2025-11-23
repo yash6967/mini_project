@@ -529,40 +529,40 @@ const Home = () => {
         bgColor: '#FFF9F0',
         accentColor: '#FF8C00'
       },
-      {
-        id: 'business-loan',
-        title: 'Business Loan',
-        icon: <FaSeedling />,
-        description: 'Get the best loan recommendations curated to boost your business',
-        bgColor: '#F0FFF4',
-        accentColor: '#38A169'
-      }
+      // {
+      //   id: 'business-loan',
+      //   title: 'Business Loan',
+      //   icon: <FaSeedling />,
+      //   description: 'Get the best loan recommendations curated to boost your business',
+      //   bgColor: '#F0FFF4',
+      //   accentColor: '#38A169'
+      // }
     ],
     savingsAndInvestments: [
-      {
-        id: 'savings',
-        title: 'Savings A/c',
-        icon: <FaPiggyBank />,
-        description: 'Open your zero balance savings account',
-        bgColor: '#F0F9FF',
-        accentColor: '#3182CE'
-      },
-      {
-        id: 'demat',
-        title: 'Demat A/c',
-        icon: <FaChartLine />,
-        description: 'Open Free* Demat account in 2 minutes',
-        bgColor: '#FFF5F5',
-        accentColor: '#E53E3E'
-      },
-      {
-        id: 'investment',
-        title: 'Investment',
-        icon: <FaSeedling />,
-        description: 'Invest in FD, Gold, Tax saver mutual funds',
-        bgColor: '#F0F4FF',
-        accentColor: '#4C51BF'
-      }
+      // {
+      //   id: 'savings',
+      //   title: 'Savings A/c',
+      //   icon: <FaPiggyBank />,
+      //   description: 'Open your zero balance savings account',
+      //   bgColor: '#F0F9FF',
+      //   accentColor: '#3182CE'
+      // },
+      // {
+      //   id: 'demat',
+      //   title: 'Demat A/c',
+      //   icon: <FaChartLine />,
+      //   description: 'Open Free* Demat account in 2 minutes',
+      //   bgColor: '#FFF5F5',
+      //   accentColor: '#E53E3E'
+      // },
+      // {
+      //   id: 'investment',
+      //   title: 'Investment',
+      //   icon: <FaSeedling />,
+      //   description: 'Invest in FD, Gold, Tax saver mutual funds',
+      //   bgColor: '#F0F4FF',
+      //   accentColor: '#4C51BF'
+      // }
     ]
   };
 
